@@ -13,4 +13,5 @@ setup(name='gilbert-scss',
       install_requires=[
           'libsass'
       ],
+      include_package_data = True,
 )
