@@ -6,5 +6,5 @@ A plugin for [Gilbert](https://github.com/funkybob/gilbert) to render content us
 This plugin is not currently published on [PyPi](https://pypi.org/) so to install you can install from GitHub:
 
 ```
-pip install git+https://github.com/shuttle1987/gilbert-frontmatter-markdown.git
+pip install git+https://github.com/Alysha-94/gilbert-scss.git
 ```
